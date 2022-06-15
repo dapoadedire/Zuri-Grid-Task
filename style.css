@@ -42,8 +42,8 @@ section{
     padding: 10px;
     
     
-    grid-template-columns: 250px 150px 200px;
-    grid-template-rows: 150px 90px 120px;
+    grid-template-columns: 220px 150px 210px;
+    grid-template-rows: 180px 90px 120px;
 }
 
 section > div{
